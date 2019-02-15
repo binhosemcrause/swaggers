@@ -5,7 +5,7 @@
     "description" : "Pet Rob",
     "title" : "Pet Rob"
   },
-  "host" : "api.rob",
+  "host" : "api.k8s",
   "basePath" : "/v1",
   "tags" : [ {
     "name" : "pet",
